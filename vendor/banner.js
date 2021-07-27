@@ -1,0 +1,53 @@
+/*
+**                                            .
+**                                         .lXMM0;
+**                                       ;OMMMMMMMWd.
+**                                    .oNMMMMMMMMMMMMK:
+**                                  ;0MMMMMMMMMMMMMMMMMWx'
+**                               .dWMMMMMMMMMMMMMMMMMMMMMMXc
+**                             :0MMMMMMMMMMMMMMMMMMMMMMMMMMMWx'
+**                          .xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXl.
+**                        .KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMx
+**                        ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW
+**                        ;MMMMMMMMMMMMMXOdl:;;;;:lx0NMMMMMMMMMMMMW
+**                        ;MMMMMMMMWOc'    :ONMMXx.   .,o0MMMMMMMMW
+**                        ;MMMMMNd'       kMMMMMMMM;       :OMMMMMW
+**                        ;MMMMMd.        XMMMMMMMMd        '0MMMMW
+**                        ;MMMMMMMKl'     'XMMMMMMk      ,dNMMMMMMW
+**                        ;MMMMMMMMMMW0d:'. .:ll;. .,cxKMMMMMMMMMMW
+**                        ;MMMMMMMMMMMMMMMMMNXXXNWMMMMMMMMMMMMMMMMW
+**                        ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW
+**                        ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW
+**                        ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW
+**                        .kNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXl
+**
+**       ................        ..........
+**        .............            ......
+**         ............             ...
+**         ............             ..
+**         ............            ..
+**         ............           ..
+**          ............         ..        ..    ..              .....         .......
+**          ............        .     ......     .....       ...........     ..........
+**          ............       .    .......      .......   ..   .........   . ........
+**          ............      .   .........      ......  .       ......... .    ....
+**           ...........     .   ..........      .... ...         .........
+**           ...........    .   ...........     ..  .....          ........
+**           ............  .   ..........  .    .........          ........
+**           ............ .    ..........      .........            ........
+**            ............     ..........      .........           ..........
+**            ...........       ........      ........  ........  .  .........
+**            ..........         .......     ........   .........    ..............
+**            .........            .....     .....      ........       .........
+**                                    ........           .....          .....
+**
+**
+**
+**                                   (c) 2021 to Present
+**                            Licensed under the GNU LGPL v3.0
+**
+**                    Affectionate inspiration drawn from Jon Bois and
+**                         our colleagues on the Secret Base team.
+**
+**
+*/

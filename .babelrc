@@ -1,0 +1,35 @@
+{
+  "presets": [
+    ["next/babel", {
+      "preset-env": {
+        "bugfixes": true,
+        "corejs": {
+          "proposals": true,
+          "version": 3
+        },
+        "targets": {
+          "browsers": [
+            "> 10%",
+            "last 1 major versions",
+            "not ie >= 0",
+            "not dead"
+          ]
+        },
+        "useBuiltIns": "usage"
+      },
+      "preset-react": {
+        "runtime": "automatic",
+        "importSource": "@emotion/react"
+      },
+      "transform-runtime": {
+        "corejs": {
+          "proposals": true,
+          "version": 3
+        }
+      }
+    }]
+  ],
+  "plugins": [
+    "@emotion/babel-plugin"
+  ]
+}

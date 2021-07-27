@@ -1,0 +1,20 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "sebastian-software.effective-prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "sebastian-software.effective-prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "sebastian-software.effective-prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "sebastian-software.effective-prettier-vscode"
+  }
+}
